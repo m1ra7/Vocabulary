@@ -1,6 +1,32 @@
-# vokabel
+# My Vocabulary App
+My Vocabulary is a Flutter-based vocabulary learning app that helps users store and review word pairs in any two languages. Whether you're learning English–German, Turkish–French, or any other language combination, this app is designed to support your personalized language journey.
+This app uses Isar – a high-performance, offline-first NoSQL database for Flutter – to store vocabulary entries locally on the device.
 
-A new Flutter project.
+# Features
+- Save vocabulary pairs in any two languages
+- Add example sentences or mnemonic stories
+- Add optional images to associate words visually
+- Organize words by type: noun, verb, adjective, idiom, etc.
+- Mark words as “learned”
+- Filter by word type or hide learned words
+- Update or delete entries anytime
+- Beautiful and user-friendly Flutter UI
+
+<p>
+<img src="assets/Preview/image1.jpeg" width="220"/> <img src="assets/Preview/image2.jpeg" width="220"/>
+<img src="assets/Preview/image3.jpeg" width="220"/> <img src="assets/Preview/image4.jpeg" width="220"/>
+<img src="assets/Preview/image5.jpeg" width="220"/> 
+</p>
+
+
+
+## Screenshots
+<p>
+<img src="assets/Preview/image12.png"/> 
+<img src="assets/Preview/image9.png"/>
+<img src="assets/Preview/image10.png"/>
+<img src="assets/Preview/image11.png"/> 
+</p>
 
 ## Getting Started
 
