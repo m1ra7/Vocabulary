@@ -15,8 +15,8 @@ This app uses Isar – a high-performance, offline-first NoSQL database for Flut
 # Screenshorts
 <p>
 <img src="assets/Preview/Preview2.png" width="220"/> <img src="assets/Preview/Preview4.png" width="220"/>
-<img src="assets/Preview/Preview6.png" width="220"/> <img src="assets/Preview/Preview5.png" width="220"/> 
-<img src="assets/Preview/Preview3.png" width="220"/>
+<img src="assets/Preview/Preview6.png" width="220"/> <img src="assets/Preview/Preview3.png" width="220"/> 
+<img src="assets/Preview/Preview5.png" width="220"/>
 </p>
 
 A few resources to get you started if this is your first Flutter project:
