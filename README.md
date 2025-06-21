@@ -12,20 +12,12 @@ This app uses Isar – a high-performance, offline-first NoSQL database for Flut
 - Update or delete entries anytime
 - Beautiful and user-friendly Flutter UI
 
+# Screenshorts
 <p>
 <img src="assets/Preview/Preview.png" width="220"/> <img src="assets/Preview/Preview3.png" width="220"/>
 <img src="assets/Preview/Preview1.png" width="220"/> <img src="assets/Preview/Preview4.png" width="220"/>
-<img src="assets/Preview/Preview2.png" width="220"/> 
-</p>
-
-
-
-## Screenshots
-<p>
-<img src="assets/Preview/image12.png"/> 
-<img src="assets/Preview/image9.png"/>
-<img src="assets/Preview/image10.png"/>
-<img src="assets/Preview/image11.png"/> 
+<img src="assets/Preview/Preview2.png" width="220"/> <img src="assets/Preview/Preview5.png" width="220"/> 
+<img src="assets/Preview/Preview6.png" width="220"/> 
 </p>
 
 A few resources to get you started if this is your first Flutter project:
